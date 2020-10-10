@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Let's Code &lt;/&gt; </h1>
+  <h1> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi! I am Tomer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Let's Code &lt;/&gt; </h1>
 </div>
 
 <p align='center'>
