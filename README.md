@@ -13,7 +13,8 @@
 
 ### :octocat: About me
 
-- 👤 Here's my <a target="_blank" href="https://www.tomerovadia.com">Personal Website</a>
+- 🔗 Here's my <a target="_blank" href="https://www.tomerovadia.com">Personal Website</a>
+- 👤 Here's my <a target="_blank" href="https://www.tomerovadia.com">Github Profile Page</a>
 - 🏢 Currently working at <a target="_blank" href="https://www.booking.com">Booking.com</a>
 
 ### 📕 Check out some of my Blog Posts on [DEV.to](https://dev.to/otomer) & [Medium](https://medium.com/@tomero)
