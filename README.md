@@ -9,11 +9,11 @@
  ### Stack I ❤️ 
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
+  <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/html.gif" width="70">
+  <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/css.gif" width="70">
+  <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/js.webp" width="70">
+  <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/vscode.webp" width="70">
+  <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/github.webp" width="70">
 </p>
 
 ### :octocat: About me
@@ -29,19 +29,18 @@
 - 🌇 <a target="_blank" href="https://dev.to/otomer/making-these-times-less-confusing-for-travellers-29hj">Making these times less confusing for travellers</a>
 
 <div align="center">
+  ■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■
+  
+  ### Connect with me on:
 
+  <p align='center'>
+    <a target="_blank" href="https://www.linkedin.com/in/tomerovadia/"><img height="30" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://medium.com/@tomero"><img height="30" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://dev.to/otomer"><img height="30" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/devto.png?raw=true"></a>&nbsp;&nbsp;
+  </p>
 
-■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■
-### Connect with me on:
-
-<ploalign='center'>
-<a target="_blank" href="https://www.linkedin.com/in/tomerovadia/"><img height="30" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://medium.com/@tomero"><img height="30" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://dev.to/otomer"><img height="30" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/devto.png?raw=true"></a>&nbsp;&nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otomer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Tomer's github stats](https://github-readme-stats.vercel.app/api/?username=otomer&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otomer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Tomer's github stats](https://github-readme-stats.vercel.app/api/?username=otomer&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 </div>
 
 --- 
