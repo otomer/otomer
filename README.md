@@ -19,6 +19,7 @@
 
 ### 📕 Check out some of my Blog Posts on [DEV.to](https://dev.to/otomer) & [Medium](https://medium.com/@tomero)
 
+- 🚀 <a target="_blank" href="https://dev.to/otomer/my-12-favorite-chrome-extensions-as-a-web-developer-56eg">My 12 Favorite Chrome Extensions as a Web Developer</a>
 - 📈 <a target="_blank" href="https://dev.to/otomer/not-just-another-coronavirus-covid-19-dashboard-with-live-statistics-4d9k">Not just another Coronavirus (covid-19) dashboard with live statistics</a>
 - 🌇 <a target="_blank" href="https://dev.to/otomer/making-these-times-less-confusing-for-travellers-29hj">Making these times less confusing for travellers</a>
 
