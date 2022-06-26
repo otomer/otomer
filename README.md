@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi! I am Tomer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Let's Code <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+  <h1> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50" /> Hi! I am Tomer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Let's Code <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h1>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 - 👤 And also my <a target="_blank" href="https://otomer.github.io">Github Profile Page</a>
 - 🏢 Currently working at <a target="_blank" href="https://www.booking.com">Booking.com</a>
 
-### 📕 Check out some of my Blog Posts on [DEV.to](https://dev.to/otomer) & [Medium](https://medium.com/@tomero)
+### 📕 Check out some of my blog posts:
 
 - 🚀 <a target="_blank" href="https://dev.to/otomer/my-12-favorite-chrome-extensions-as-a-web-developer-56eg">My 12 Favorite Chrome Extensions as a Web Developer</a>
 - 📈 <a target="_blank" href="https://dev.to/otomer/not-just-another-coronavirus-covid-19-dashboard-with-live-statistics-4d9k">Not just another Coronavirus (covid-19) dashboard with live statistics</a>
